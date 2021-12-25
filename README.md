@@ -2,7 +2,7 @@
 
 Abaixo, listo cada um dos cursos e as anotações que fiz durante as aulas.
 
-## Aula de boas-vindas ao Bootcamp Inter Frontend Developer
+## 1. Aula de boas-vindas ao Bootcamp Inter Frontend Developer
 
 O video trouxe informações que podem nortear a criação de novas funcionalidades. Cita o desejo da empresa de não apenas ter um super app, mas que as funcionalidades oferecidas:
 
@@ -33,17 +33,17 @@ O video trouxe informações que podem nortear a criação de novas funcionalida
   - serviços de previdencia privada
   - débito automático para o maior número de serviços possível
 
-## Mentoria #1: Aula Inaugural - Bootcamp Inter Frontend Developer
+## 2. Mentoria #1: Aula Inaugural - Bootcamp Inter Frontend Developer
 
 - como usar o site
 - serivços oferecidos
 - obrigações do aluno
 
-## Lógica de Programação Essencial
+## 3. Lógica de Programação Essencial
 
 Vide [repositório](https://github.com/ricardobianchin/Logica-Progr-Exercicios) específico. 
 
-## Aprenda o que são Estrutura de Dados e Algoritmos
+## 4. Aprenda o que são Estrutura de Dados e Algoritmos
 
 - matrizes
 - vetores
@@ -55,7 +55,8 @@ Vide [repositório](https://github.com/ricardobianchin/Logica-Progr-Exercicios) 
 - tabela hash 
 - grafos
 
-## Introdução ao Git e ao GitHub
+## 5. Introdução ao Git e ao GitHub
+
 ```bash
 git status
 git add .
