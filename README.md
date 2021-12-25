@@ -1,12 +1,10 @@
 # Bootcamp DIO Inter FrontEnd Developer 2021-12 
 
-Apoio aos meus estudos. Anotações, fichamentos, reflexões, lembretes...
+Abaixo, listo cada um dos cursos e as anotações que fiz durante as aulas.
 
 ## Aula de boas-vindas ao Bootcamp Inter Frontend Developer
 
-O video trouxe informações que podem nortear a criação de novas funcionalidades.
-
-O video cita o desejo da empresa de não apenas ter um super app, mas que as funcionalidades oferecidas:
+O video trouxe informações que podem nortear a criação de novas funcionalidades. Cita o desejo da empresa de não apenas ter um super app, mas que as funcionalidades oferecidas:
 
 - não apenas repitam o que os demais bancos oferecem
 - simplifiquem
@@ -43,7 +41,7 @@ O video cita o desejo da empresa de não apenas ter um super app, mas que as fun
 
 ## Lógica de Programação Essencial
 
-Criei este [repositório](https://github.com/ricardobianchin/Logica-Progr-Exercicios) para apoiar os estudos. 
+Vide [repositório](https://github.com/ricardobianchin/Logica-Progr-Exercicios) específico. 
 
 ## Aprenda o que são Estrutura de Dados e Algoritmos
 
@@ -56,3 +54,21 @@ Criei este [repositório](https://github.com/ricardobianchin/Logica-Progr-Exerci
 - árvore
 - tabela hash 
 - grafos
+
+## Introdução ao Git e ao GitHub
+```bash
+git status
+git add .
+git add arq
+git add ./pasta
+git commit -m "mensagem"
+git checkout "o que trazer para a workspace"
+git checkout -b novobranch
+git merge --no-ff -m "mensagem"
+git branch -d branchjamesclado
+git remote -V
+git remote add alias url
+git remote add origin ssh...
+git push origin main
+git pull origin main
+```
