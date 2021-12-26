@@ -17,38 +17,38 @@ O Índice é mantido automaticamente pelo extension do VSCode chamado "Markdown 
 
 O vídeo trouxe informações que podem nortear a criação de novas funcionalidades. Cita o desejo da empresa de não apenas ter um super app, mas que as funcionalidades oferecidas:
 
-- não apenas repitam o que os demais bancos oferecem
-- simplifiquem
-  - menos toques para efetuar uma operação
-  - layout da interface simples e intuitivo
-  - tarefas automatizadas
-- expandam
-  - produtos atrativos a diferentes grupos sociais
-  - possibilidade de identificar o usuário pelo seu nome social
-  - promoções do tipo “traga um amigo e ganhe”
-  - interface com modos de acessibilidade
-  - incubadora de clientes oferecendo serviços como 
-    - cartão universitário
-    - apoio a pequenos empreendedores para abrir o seu negócio, sugerindo um passo a passo de suas obrigações
-    - educação financeira para jovens
-- ser o meio que deixa a vida mais fácil
-  - diminuir burocracias
-  - fechar o cerco satisfazendo o maior número de necessidades das pessoas, como
-    - meios de pagamento/recebimento
-    - investimentos
-    - intermediar oferta de produtos e serviços
-      - comprando pelo app, pula a etapa de escolher a forma de pagamento
-        - avisa antes da compra que não terá saldo e entrará no cheque especial(?)
-      - assinaturas de games e streamings
-- fazer parte de cada momento da vida das pessoas
-  - serviços de previdência privada
-  - débito automático para o maior número de serviços possível
+- Não apenas repitam o que os demais bancos oferecem
+- Simplifiquem
+  - Menos toques para efetuar uma operação
+  - Layout da interface simples e intuitivo
+  - Tarefas automatizadas
+- Expandam
+  - Produtos atrativos a diferentes grupos sociais
+  - Possibilidade de identificar o usuário pelo seu nome social
+  - Promoções do tipo “traga um amigo e ganhe”
+  - Interface com modos de acessibilidade
+  - Incubadora de clientes oferecendo serviços como 
+    - Cartão universitário
+    - Apoio a pequenos empreendedores para abrir o seu negócio, sugerindo um passo a passo de suas obrigações
+    - Educação financeira para jovens
+- Ser o meio que deixa a vida mais fácil
+  - Diminuir burocracias
+  - Fechar o cerco satisfazendo o maior número de necessidades das pessoas, como
+    - Meios de pagamento/recebimento
+    - Investimentos
+    - Intermediar oferta de produtos e serviços
+      - Comprando pelo app, pula a etapa de escolher a forma de pagamento
+        - Avisa antes da compra que não terá saldo e entrará no cheque especial(?)
+      - Assinaturas de games e streamings
+- Fazer parte de cada momento da vida das pessoas
+  - Serviços de previdência privada
+  - Débito automático para o maior número de serviços possível
 
 ## 2. Mentoria #1: Aula Inaugural - Bootcamp Inter Frontend Developer
 
-- como usar o site
-- serviços oferecidos
-- obrigações do aluno
+- Como usar o site
+- Serviços oferecidos
+- Obrigações do aluno
 
 ## 3. Lógica de Programação Essencial
 
@@ -56,15 +56,15 @@ Vide [repositório](https://github.com/ricardobianchin/Logica-Progr-Exercicios) 
 
 ## 4. Aprenda o que são Estrutura de Dados e Algoritmos
 
-- matrizes
-- vetores
-- registros
-- listas
-- pilhas
-- filas
-- árvore
-- tabela hash
-- grafos
+- Matrizes
+- Vetores
+- Registros
+- Listas
+- Pilhas
+- Filas
+- Árvore
+- Tabela hash
+- Grafos
 
 ## 5. Introdução ao Git e ao GitHub
 
