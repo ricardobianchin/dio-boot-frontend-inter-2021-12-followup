@@ -1,47 +1,47 @@
-# Bootcamp DIO Inter FrontEnd Developer 2021-12 
+# Bootcamp DIO Inter FrontEnd Developer 2021-12
 
 Abaixo, listo cada um dos cursos e as anotações que fiz durante as aulas.
 
 ## 1. Aula de boas-vindas ao Bootcamp Inter Frontend Developer
 
-O video trouxe informações que podem nortear a criação de novas funcionalidades. Cita o desejo da empresa de não apenas ter um super app, mas que as funcionalidades oferecidas:
+O vídeo trouxe informações que podem nortear a criação de novas funcionalidades. Cita o desejo da empresa de não apenas ter um super app, mas que as funcionalidades oferecidas:
 
 - não apenas repitam o que os demais bancos oferecem
 - simplifiquem
-  - menos toques para evetuar uma operação
+  - menos toques para efetuar uma operação
   - layout da interface simples e intuitivo
-  - tarefaz automatizadas
+  - tarefas automatizadas
 - expandam
   - produtos atrativos a diferentes grupos sociais
   - possibilidade de identificar o usuário pelo seu nome social
-  - promocoes do tipo "traga um amigo e ganhe"
+  - promoções do tipo “traga um amigo e ganhe”
   - interface com modos de acessibilidade
-  - incubadora de clientes oferecendo servicos como 
+  - incubadora de clientes oferecendo serviços como 
     - cartão universitário
     - apoio a pequenos empreendedores para abrir o seu negócio, sugerindo um passo a passo de suas obrigações
     - educação financeira para jovens
-- ser o meio que deixa a vida mais facil
+- ser o meio que deixa a vida mais fácil
   - diminuir burocracias
-  - fechar o cerco satisfazendo o maior numero de necessidades das pessoas, como
+  - fechar o cerco satisfazendo o maior número de necessidades das pessoas, como
     - meios de pagamento/recebimento
     - investimentos
-    - intermediar oferta de produtos e servicos
+    - intermediar oferta de produtos e serviços
       - comprando pelo app, pula a etapa de escolher a forma de pagamento
-        - avisa antes da compra que nao terá saldo e entrará no cheque especial(?)
+        - avisa antes da compra que não terá saldo e entrará no cheque especial(?)
       - assinaturas de games e streamings
 - fazer parte de cada momento da vida das pessoas
-  - serviços de previdencia privada
+  - serviços de previdência privada
   - débito automático para o maior número de serviços possível
 
 ## 2. Mentoria #1: Aula Inaugural - Bootcamp Inter Frontend Developer
 
 - como usar o site
-- serivços oferecidos
+- serviços oferecidos
 - obrigações do aluno
 
 ## 3. Lógica de Programação Essencial
 
-Vide [repositório](https://github.com/ricardobianchin/Logica-Progr-Exercicios) específico. 
+Vide [repositório](https://github.com/ricardobianchin/Logica-Progr-Exercicios) específico.
 
 ## 4. Aprenda o que são Estrutura de Dados e Algoritmos
 
@@ -52,7 +52,7 @@ Vide [repositório](https://github.com/ricardobianchin/Logica-Progr-Exercicios) 
 - pilhas
 - filas
 - árvore
-- tabela hash 
+- tabela hash
 - grafos
 
 ## 5. Introdução ao Git e ao GitHub
