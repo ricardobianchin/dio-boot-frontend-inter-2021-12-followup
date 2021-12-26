@@ -73,3 +73,7 @@ git remote add origin ssh...
 git push origin main
 git pull origin main
 ```
+
+## 6. Projetos ágeis com SCRUM
+
+Vide [repositório](https://github.com/ricardobianchin/scrum-notes) específico
