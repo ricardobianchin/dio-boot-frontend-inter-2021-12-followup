@@ -1,10 +1,19 @@
 # Bootcamp DIO Inter FrontEnd Developer 2021-12 {#boot-dio-inter-frontend-2021-12}
 
-## Índice
+## Apresentação
+
+Este repositório destina-se a mostrar o meu avanço nos estudos na bootcamp. Também está servindo para base de consultas, como por exemplo, para eu copiar comandos do Git Bash.
+
+Cada tópico tem um link para o respectivo certificado.
+
+Para alguns cursos eu achei melhor criar o seu próprio repositório. O link estará indicado junto do curso.
 
 O Índice é mantido automaticamente pelo extension do VSCode chamado "Markdown All in One", Id: `yzhang.markdown-all-in-one`.
 
+## Índice
+
 - [Bootcamp DIO Inter FrontEnd Developer 2021-12 {#boot-dio-inter-frontend-2021-12}](#bootcamp-dio-inter-frontend-developer-2021-12-boot-dio-inter-frontend-2021-12)
+  - [Apresentação](#apresentação)
   - [Índice](#índice)
   - [1. Aula de boas-vindas ao Bootcamp Inter Frontend Developer](#1-aula-de-boas-vindas-ao-bootcamp-inter-frontend-developer)
   - [2. Mentoria #1: Aula Inaugural - Bootcamp Inter Frontend Developer](#2-mentoria-1-aula-inaugural---bootcamp-inter-frontend-developer)
@@ -12,6 +21,7 @@ O Índice é mantido automaticamente pelo extension do VSCode chamado "Markdown 
   - [4. Aprenda o que são Estrutura de Dados e Algoritmos](#4-aprenda-o-que-são-estrutura-de-dados-e-algoritmos)
   - [5. Introdução ao Git e ao GitHub](#5-introdução-ao-git-e-ao-github)
   - [6. Projetos ágeis com SCRUM](#6-projetos-ágeis-com-scrum)
+  - [7. Desafio de Código "Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso"](#7-desafio-de-código-criando-seu-primeiro-repositório-no-github-para-compartilhar-seu-progresso)
 
 ## 1. Aula de boas-vindas ao Bootcamp Inter Frontend Developer
 
@@ -101,4 +111,16 @@ git pull origin main
 
 [Certificado](https://digitalinnovation.one/certificate/2FE12CA2)
 
-Vide [repositório](https://github.com/ricardobianchin/scrum-notes) específico
+Vide [repositório](https://github.com/ricardobianchin/scrum-notes) específico.
+
+## 7. Desafio de Código "Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso"
+
+Para a execução desse desafio precisei conhecer os comandos do Markdown e assim criar os arquivos README.md. Utilizo as marcações para títulos, links externos e links para ids no próprio texto e formatação de letra.
+
+No README deste desafio eu criei a lista dos cursos que já concluí.
+
+Junto de cada curso indico link para o certificado que recebi ao terminá-lo. Quando termino cada curso, compartilho a conquista no LinkedIn. Nesse momento eu aproveito para copiar o código do certificado. Assim consigo montar as URLs que levam aos meus certificado no site da DIO.
+
+O material de alguns cursos eu percebi que me serão úteis pra toda a vida, então para eles eu criei um repositório próprio. O link está indicado no README deste desafio. Outros cursos devo passar em breve para um repositório próprio, na medida que forem crescendo. Por exemplo, o curso de Git e GitHub, quando eu começar a criar scripts de automação do Git Bash.
+
+O Índice é mantido automaticamente pelo extension do VSCode chamado "Markdown All in One", Id: `yzhang.markdown-all-in-one`.
