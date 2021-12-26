@@ -1,4 +1,4 @@
-# Bootcamp DIO Inter FrontEnd Developer 2021-12 {#boot-dio-inter-frontend-2021-12}
+# Bootcamp DIO Inter FrontEnd Developer 2021-12
 
 ## Apresentação
 
@@ -12,7 +12,7 @@ O Índice é mantido automaticamente pelo extension do VSCode chamado "Markdown 
 
 ## Índice
 
-- [Bootcamp DIO Inter FrontEnd Developer 2021-12 {#boot-dio-inter-frontend-2021-12}](#bootcamp-dio-inter-frontend-developer-2021-12-boot-dio-inter-frontend-2021-12)
+- [Bootcamp DIO Inter FrontEnd Developer 2021-12](#bootcamp-dio-inter-frontend-developer-2021-12)
   - [Apresentação](#apresentação)
   - [Índice](#índice)
   - [1. Aula de boas-vindas ao Bootcamp Inter Frontend Developer](#1-aula-de-boas-vindas-ao-bootcamp-inter-frontend-developer)
