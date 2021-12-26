@@ -15,6 +15,8 @@ O Índice é mantido automaticamente pelo extension do VSCode chamado "Markdown 
 
 ## 1. Aula de boas-vindas ao Bootcamp Inter Frontend Developer
 
+[Certificado](https://digitalinnovation.one/certificate/B45D8504)
+
 O vídeo trouxe informações que podem nortear a criação de novas funcionalidades. Cita o desejo da empresa de não apenas ter um super app, mas que as funcionalidades oferecidas:
 
 - Não apenas repitam o que os demais bancos oferecem
@@ -52,9 +54,15 @@ O vídeo trouxe informações que podem nortear a criação de novas funcionalid
 
 ## 3. Lógica de Programação Essencial
 
+[Certificado](https://digitalinnovation.one/certificate/61ADC412)
+
 Vide [repositório](https://github.com/ricardobianchin/Logica-Progr-Exercicios) específico.
 
 ## 4. Aprenda o que são Estrutura de Dados e Algoritmos
+
+[Certificado](https://digitalinnovation.one/certificate/50A7AD4B)
+
+Vimos as estruturas:
 
 - Matrizes
 - Vetores
@@ -67,6 +75,10 @@ Vide [repositório](https://github.com/ricardobianchin/Logica-Progr-Exercicios) 
 - Grafos
 
 ## 5. Introdução ao Git e ao GitHub
+
+[Certificado](https://digitalinnovation.one/certificate/ADF583D9)
+
+Comandos que eu mais utilizo no dia a dia:
 
 ```bash
 git status
@@ -86,5 +98,7 @@ git pull origin main
 ```
 
 ## 6. Projetos ágeis com SCRUM
+
+[Certificado](https://digitalinnovation.one/certificate/2FE12CA2)
 
 Vide [repositório](https://github.com/ricardobianchin/scrum-notes) específico
