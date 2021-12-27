@@ -115,6 +115,8 @@ Vide [repositório](https://github.com/ricardobianchin/scrum-notes) específico.
 
 ## 7. Desafio de Código "Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso"
 
+[Certificado](https://digitalinnovation.one/certificate/04009DFF)
+
 Para a execução desse desafio precisei conhecer os comandos do Markdown e assim criar os arquivos README.md. Utilizo as marcações para títulos, links externos e links para ids no próprio texto e formatação de letra.
 
 No README deste desafio eu criei a lista dos cursos que já concluí.
